@@ -1,8 +1,9 @@
 ---
 title: About
 url: /about/
-image: images/about.jpg
+image: images/manta-ray-san-francisco.jpg
 ---
+
 ## a ray on the streets of San Francisco
 
 Lorem *markdownum notam si* lintea meque certa [en meumque
