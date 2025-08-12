@@ -1,10 +1,10 @@
 {
   "media": {
-    "root": "sfg/public",
-    "public": "sfg/public/images"
+    "root": "public",
+    "public": "public/images"
   },
   "content": {
-    "root": "sfg/content"
+    "root": "content"
   },
   "themeConfig": [
     "sfg/config.toml"
