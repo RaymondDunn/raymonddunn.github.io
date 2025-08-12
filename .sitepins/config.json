@@ -1,0 +1,15 @@
+{
+  "media": {
+    "root": "sfg/public",
+    "public": "sfg/public/images"
+  },
+  "content": {
+    "root": "sfg/content"
+  },
+  "themeConfig": [
+    ".sitepins/config.json",
+    "sfg/config.toml"
+  ],
+  "arrangement": [],
+  "showCommitModal": false
+}
