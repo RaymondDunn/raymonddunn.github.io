@@ -4,11 +4,11 @@
     "public": "public/images"
   },
   "content": {
-    "root": "content"
+    "root": "public"
   },
   "themeConfig": [
     "config.toml"
   ],
   "arrangement": [],
-  "showCommitModal": true
+  "showCommitModal": false
 }
