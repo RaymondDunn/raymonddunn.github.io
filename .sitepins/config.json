@@ -1,6 +1,6 @@
 {
   "media": {
-    "root": "sfg/data",
+    "root": "sfg/public",
     "public": "sfg/public/images"
   },
   "content": {
