@@ -7,7 +7,6 @@
     "root": "sfg/content"
   },
   "themeConfig": [
-    ".sitepins/config.json",
     "sfg/config.toml"
   ],
   "arrangement": [],
