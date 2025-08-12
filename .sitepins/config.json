@@ -1,0 +1,14 @@
+{
+  "media": {
+    "root": "sfg/data",
+    "public": "sfg/static"
+  },
+  "content": {
+    "root": "sfg/content"
+  },
+  "themeConfig": [
+    "sfg/config.toml"
+  ],
+  "arrangement": [],
+  "showCommitModal": false
+}
