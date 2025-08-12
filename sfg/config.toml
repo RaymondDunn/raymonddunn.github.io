@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "/sfg/"
 languageCode = "en-us"
 theme = "hugo-winston-theme"
 themesDir = "themes"
