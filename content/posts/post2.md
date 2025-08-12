@@ -1,8 +1,12 @@
 ---
 title: post2
 date: ''
-description: ''
+description: test
 image: ''
 imageAltAttribute: ''
-tags: []
+tags:
+  - test_tag
 ---
+# HERE IS MY POST2
+
+![](media/public/demo.png)
