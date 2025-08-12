@@ -1,7 +1,7 @@
 ---
 title: About
 url: /about/
-image: images/manta-ray-san-francisco.jpg
+image: images/lab_photo_lowres.png
 ---
 
 ## a ray on the streets of San Francisco
