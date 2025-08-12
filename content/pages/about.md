@@ -1,12 +1,11 @@
 ---
-title: 'About'
-url: "/about/"
+title: About
+url: /about/
 image: images/about.jpg
 ---
+## a ray on the streets of San Francisco
 
-## Contra vagos
-
-Lorem _markdownum notam si_ lintea meque certa [en meumque
+Lorem *markdownum notam si* lintea meque certa [en meumque
 illis](#cohibentem-iuvenaliter), diu fatigant, nec praedae concustodita arcet.
 [Paviunt castris](#nemorisque-urimur-violentus) cur errat ventis causa! Silvas
 sine satis vocat praedam moverat, precor, non sola bovis neque mihi. Primum
@@ -44,4 +43,4 @@ deus inserit sit tua. Pompa non precor procumbit inania lacrimas sacra credetis:
 Oceano, femina?
 
 Bacchantum neque. Humum ut violasse quam inmotos! Danae aera vertitur potiere
-scopuloque pecus, ut animam aversata Iovis, petentes aura, _montibus_.
+scopuloque pecus, ut animam aversata Iovis, petentes aura, *montibus*.
