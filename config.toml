@@ -2,7 +2,7 @@ baseURL = "https://raymonddunn.github.io"
 languageCode = "en-us"
 theme = "hugo-winston-theme"
 themesDir = "themes"
-title = "Raymond Dunn's page"
+title = ""
 paginate = 3
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
@@ -12,7 +12,7 @@ extended = true
 min = "0.55.0"
 [params]
 google_analytics_id = ""
-twitter_handle = "@zerostaticio"
+twitter_handle = "@sci_ray"
 showAuthorOnHomepage = true
 showAuthorOnPosts = false
 showIntroContentOnHomepage = true
