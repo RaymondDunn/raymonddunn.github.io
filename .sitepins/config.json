@@ -4,7 +4,7 @@
     "public": "sfg/public/images"
   },
   "content": {
-    "root": "sfg/public"
+    "root": "sfg"
   },
   "themeConfig": [
     "sfg/config.toml"
