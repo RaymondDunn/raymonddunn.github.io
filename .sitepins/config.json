@@ -4,7 +4,7 @@
     "public": "public/images"
   },
   "content": {
-    "root": "public"
+    "root": "content"
   },
   "themeConfig": [
     "config.toml"
