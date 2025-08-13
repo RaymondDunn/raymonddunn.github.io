@@ -1,6 +1,7 @@
 baseURL = "https://raymonddunn.github.io"
 languageCode = "en-us"
 theme = "hugo-winston-theme"
+favicon = "images/favicon.png"
 themesDir = "themes"
 title = ""
 paginate = 3
@@ -57,3 +58,4 @@ name = "Tags"
 identifier = "tags"
 weight = 4
 url = "/tags/"
+
