@@ -3,45 +3,16 @@ title: About
 url: /about/
 image: images/lab_photo_lowres.png
 ---
+## A ray on the streets of San Francisco
 
-## a ray on the streets of San Francisco
+My name is Ray and I hang out in SF. I'm currently soliciting funding for a research nonprofit. 
 
-Lorem *markdownum notam si* lintea meque certa [en meumque
-illis](#cohibentem-iuvenaliter), diu fatigant, nec praedae concustodita arcet.
-[Paviunt castris](#nemorisque-urimur-violentus) cur errat ventis causa! Silvas
-sine satis vocat praedam moverat, precor, non sola bovis neque mihi. Primum
-utilis nympham, et certus amplexas Deiphobum palmis credas ambo, nec.
+## Research training
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+I’m a computational neuroscientist with training in experimental biology and large-scale data engineering. I earned my PhD in Neuroscience from the University of California, San Francisco, where I studied whole-brain dynamics in Caenorhabditis elegans in the labs of Saul Kato and Noelle L’Etoile. My work used custom-built virtual reality systems, closed-loop optogenetics, and high-speed volumetric imaging, and neural activity modeling to study how neural circuits implement working memory. I combined molecular biology, including cloning and engineering optogenetic constructs, with Python infrastructure for real-time control and analysis of neural activity.
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+Before UCSF from 2016-2017, I worked at UC Santa Barbara in Michael Goard’s lab, studying visual cortex activity in vivo during visual processing tasks in mice. In the summer of 2015, I worked in Tiago Branco’s lab at the University of Cambridge, studying innate behaviors, focusing on defensive behaviors, using systems neuroscience techniques to record and stimulate neural populations that encode aggression.
 
-## Ducem oculos pallor tale quoque
+From 2013-2016, at Georgetown University, I worked in the labs of Daniel Pak and Patrick Forcelli. I studied the molecular basis of synaptic plasticity, including roles of scaffolding proteins in hippocampal function, and the neuroanatomical and behavioral consequences of early-life seizures in rodent models. This work included molecular cloning, cell culture, histology, and behavioral assays, giving me a foundation in both cellular neuroscience and whole-animal behavior.
 
-Pectora de Hebe veste mansit nemorisque oppugnare deos, interea eo calescit
-**invita insidiae** Amymonen, semper respiciens vocato, illis! Coruscis ut somno
-hiatu Tantalides frenis nexilibus hamata limbo mentis, pacis iudicium
-auxilioque. Genus dolori, me ira hae inpediunt tellus, nascendi Boreas!
-Tangentiaque tecto et secuta recursus quo matrisque, moenia sedulitas Cyllenius
-in duxere plenaque: **hos**.
-
-1. Olim pulvere
-2. Verus ego ovantem mihi
-3. Tenuit erat semina superari
-4. Dabis natis hoc genu in quidem dumque
-
-Per tenuata [potiora](#inmeritae-discordemque-iterum) dedit caelo admota
-iniustus decipere do loca multa non parat. Ingratos his ut inde credite sensit
-sorte. Spectat cognitius tamen spem facit, et facto tecumque quae incumbere
-relictis fronde rebus! Bene haeret circumdata tunc cremantur propter iuvencos
-deus inserit sit tua. Pompa non precor procumbit inania lacrimas sacra credetis:
-Oceano, femina?
-
-Bacchantum neque. Humum ut violasse quam inmotos! Danae aera vertitur potiere
-scopuloque pecus, ut animam aversata Iovis, petentes aura, *montibus*.
+Across these projects I built genetic tools, high-throughput molecular workflows, experimental systems, and computational models. I am interested in building robust, scalable systems for probing neural circuits and in leading teams that work at the intersection of biology, computation, and technology.
