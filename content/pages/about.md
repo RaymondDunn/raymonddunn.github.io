@@ -2,10 +2,11 @@
 title: About
 url: /about/
 image: images/lab_photo_lowres.png
+draft: true
 ---
 ## A ray on the streets of San Francisco
 
-My name is Ray and I hang out in SF. I'm currently soliciting funding for a research nonprofit. 
+My name is Ray and I hang out in SF. I'm currently soliciting funding for a research nonprofit.
 
 ## Research training
 
