@@ -2,6 +2,3 @@ _site
 .sass-cache
 Gemfile.lock
 *.gem
-.hugo_build.lock
-/public/
-/resources/
