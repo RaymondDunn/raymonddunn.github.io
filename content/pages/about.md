@@ -2,7 +2,6 @@
 title: About
 url: /about/
 image: images/lab_photo_lowres.png
-draft: true
 ---
 ## A ray on the streets of San Francisco
 
