@@ -4,26 +4,23 @@
     <title>Tags on </title>
     <link>https://raymonddunn.github.io/tags/</link>
     <description>Recent content in Tags on </description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://raymonddunn.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://raymonddunn.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>neuro</title>
+      <title>Neuro</title>
       <link>https://raymonddunn.github.io/tags/neuro/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      
       <guid>https://raymonddunn.github.io/tags/neuro/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>phd</title>
+      <title>Phd</title>
       <link>https://raymonddunn.github.io/tags/phd/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      
       <guid>https://raymonddunn.github.io/tags/phd/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
