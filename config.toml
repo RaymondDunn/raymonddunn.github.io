@@ -13,7 +13,7 @@ pygmentsUseClasses = true
 extended = true
 min = "0.55.0"
 [params]
-google_analytics_id = ""
+google_analytics_id = "G-JC72PTE8QS"
 twitter_handle = "@sci_ray"
 showAuthorOnHomepage = true
 showAuthorOnPosts = false
@@ -59,4 +59,9 @@ name = "Tags"
 identifier = "tags"
 weight = 4
 url = "/tags/"
+[[menu.main]]
+name = "Publications"
+identifier = "pubs"
+weight = 4
+url = "/pubs/"
 
