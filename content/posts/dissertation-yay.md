@@ -2,8 +2,8 @@
 title: Working memory in a worm?
 date: 2025-04-01
 description: "I got my dissertation!"
-image: images/cctv2.jpeg
-imageAltAttribute: Dissertation
+image: images/wormbow6.png
+imageAltAttribute: i-brain-brians.png
 tags:
    - phd
    - neuro
