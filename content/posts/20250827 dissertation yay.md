@@ -18,5 +18,3 @@ For my dissertaion, I studied the foundations of cognition in the roundworm C. e
 Lmao said no one ever. It's a joke in grad school that anyone would ever actually read your dissertation, including your PI and committee.
 
 But if you want to read it, [it's here](todo).
-
-## 

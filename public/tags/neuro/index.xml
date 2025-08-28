@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Neuro on </title>
-    <link>https://raymonddunn.github.io/tags/neuro/</link>
+    <link>http://localhost:1313/tags/neuro/</link>
     <description>Recent content in Neuro on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://raymonddunn.github.io/tags/neuro/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/neuro/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Working memory in a worm?</title>
-      <link>https://raymonddunn.github.io/posts/dissertation-yay/</link>
+      <link>http://localhost:1313/posts/20250827-dissertation-yay/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://raymonddunn.github.io/posts/dissertation-yay/</guid>
+      <guid>http://localhost:1313/posts/20250827-dissertation-yay/</guid>
       <description>&lt;h2 id=&#34;i-got-my-phd&#34;&gt;I got my PhD!&lt;/h2&gt;&#xA;&lt;p&gt;For my dissertaion, I studied the foundations of cognition in the roundworm C. elegans. By monitoring whole-brain neural activity and probing the functions of individual neurons with closed-loop optical physiology platform I developed, we discovered worms have distributed networks of neurons which implement a primordial working memory. Profoundly, these results might point towards an evolutionary explanation for the origins of cognition, by internalize (i.e. repurposing) neural encoding of motor control.&lt;/p&gt;</description>
     </item>
   </channel>

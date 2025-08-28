@@ -16,3 +16,7 @@ Before UCSF from 2016-2017, I worked at UC Santa Barbara in Michael Goard’s la
 From 2013-2016, at Georgetown University, I worked in the labs of Daniel Pak and Patrick Forcelli. I studied the molecular basis of synaptic plasticity, including roles of scaffolding proteins in hippocampal function, and the neuroanatomical and behavioral consequences of early-life seizures in rodent models. This work included molecular cloning, cell culture, histology, and behavioral assays, giving me a foundation in both cellular neuroscience and whole-animal behavior.
 
 Across these projects I built genetic tools, high-throughput molecular workflows, experimental systems, and computational models. I am interested in building robust, scalable systems for probing neural circuits and in leading teams that work at the intersection of biology, computation, and technology.
+
+![ray](/images/manta-ray-san-francisco.jpg)
+
+Pretty much this.

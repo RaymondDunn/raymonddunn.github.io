@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on </title>
-    <link>https://raymonddunn.github.io/pages/</link>
+    <link>http://localhost:1313/pages/</link>
     <description>Recent content in Pages on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://raymonddunn.github.io/pages/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://raymonddunn.github.io/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://raymonddunn.github.io/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;h2 id=&#34;a-ray-on-the-streets-of-san-francisco&#34;&gt;A ray on the streets of San Francisco&lt;/h2&gt;&#xA;&lt;p&gt;My name is Ray and I hang out in SF. I&amp;rsquo;m currently soliciting funding for a research nonprofit.&lt;/p&gt;&#xA;&lt;h2 id=&#34;research-training&#34;&gt;Research training&lt;/h2&gt;&#xA;&lt;p&gt;I’m a computational neuroscientist with training in experimental biology and large-scale data engineering. I earned my PhD in Neuroscience from the University of California, San Francisco, where I studied whole-brain dynamics in Caenorhabditis elegans in the labs of Saul Kato and Noelle L’Etoile. My work used custom-built virtual reality systems, closed-loop optogenetics, and high-speed volumetric imaging, and neural activity modeling to study how neural circuits implement working memory. I combined molecular biology, including cloning and engineering optogenetic constructs, with Python infrastructure for real-time control and analysis of neural activity.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Pubs</title>
-      <link>https://raymonddunn.github.io/pubs/</link>
+      <link>http://localhost:1313/pubs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://raymonddunn.github.io/pubs/</guid>
+      <guid>http://localhost:1313/pubs/</guid>
       <description>&lt;p&gt;Dunn, R. L., Costello, C., Borchardt, J. M., Sprague, D. Y., Chiu, G. C., Miller, J. M., L’Etoile, N. D., Kato, S. (2024). Relative phase of distributed oscillatory dynamics implements a working memory in a simple brain. bioArxiv. &lt;a href=&#34;https://doi.org/10.1101/2024.08.11.607402&#34;&gt;https://doi.org/10.1101/2024.08.11.607402&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Sprague, D. Y., Rusch, K., Dunn, R. L., Borchardt, J. M., Bubnis, G., Chiu, G. C., Wen, C., Suzuki, R., Chaudhary, S., Dichter, B., Ly, R., Onami, S., Lu, H., Kimura, K. , Yemini, E. I., Kato, S. (2024). Unifying community-wide whole-brain imaging datasets enables robust automated neuron identification and reveals determinants of neuron positioning in C. elegans. Cell Reports Methods. Preprint &lt;a href=&#34;https://doi.org/10.1101/2024.04.28.591397&#34;&gt;https://doi.org/10.1101/2024.04.28.591397&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -20,4 +20,4 @@ Dunn, R. L., Queenan, B. N., Pak, D. T. S., & Forcelli, P. A. (2018). Divergent 
 
 Dunn, R. L.*, Queenan, B. N.*, Santos, V. R., Feng, Y., Huizenga, M. N., Hammack, R. J., Vicini, S., Forcelli, P. A., & Pak, D. T. S. (2017). Kappa opioid receptors regulate hippocampal synaptic homeostasis and epileptogenesis. Epilepsia (Vol. 59, Issue 1, pp. 106–122). https://doi.org/10.1111/epi.13941. 
 
-* Indicates co-first authorship and may appear in either order.
+"*" Indicates co-first authorship and may appear in either order.

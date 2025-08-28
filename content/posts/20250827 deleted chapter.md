@@ -2,7 +2,7 @@
 title: A deleted chapter from my PhD
 date: 2025-08-27
 description: "I liked it more than some other folks did..."
-image: images/darkness-around-us.png
+image: images/ghost_path.png
 imageAltAttribute: best tshirt
 tags:
    - phd
