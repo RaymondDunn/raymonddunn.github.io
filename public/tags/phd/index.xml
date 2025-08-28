@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Phd on </title>
-    <link>http://localhost:1313/tags/phd/</link>
+    <link>https://raymonddunn.github.io/tags/phd/</link>
     <description>Recent content in Phd on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/phd/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://raymonddunn.github.io/tags/phd/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Working memory in a worm?</title>
-      <link>http://localhost:1313/posts/dissertation-yay/</link>
+      <link>https://raymonddunn.github.io/posts/dissertation-yay/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/dissertation-yay/</guid>
-      <description>&lt;h2 id=&#34;i-got-my-phd&#34;&gt;I got my PhD!&lt;/h2&gt;&#xA;&lt;p&gt;Link&lt;/p&gt;&#xA;&lt;h2 id=&#34;hos-sum-sex-o-quamvis-thoantis-gentes&#34;&gt;Hos sum sex o quamvis Thoantis gentes&lt;/h2&gt;&#xA;&lt;p&gt;Is polus Hymenaeus extrema communes, nos versus gramen, fervet: sincera quati.&#xA;Dixit extulerat; iunctas et &lt;a href=&#34;http://egofateri.net/&#34;&gt;Aeaciden Illa&lt;/a&gt;, visa&#xA;&lt;a href=&#34;http://euntemcrepuscula.com/subiecta.html&#34;&gt;viris&lt;/a&gt;. Ignoro dixit et linquit&#xA;moenia parilique dum deo cum, dat et superasse explorat causam crepuscula si&#xA;nitet inplevit.&lt;/p&gt;&#xA;&lt;p&gt;Oriente nec radios nurus, quod undas, occupat conpescit femina est; resistite&#xA;regno armenta suspirat. Mare condor dedi iussa Amoris et cacumine vellent Graios&#xA;et praebetis quoque frementem nostris apertis Iunonigenaeque moenia. Squalidus&#xA;quoque &lt;strong&gt;cinnamaque fiducia concurrit&lt;/strong&gt;; teneat haec praemia flagrantemque facto&#xA;atque, depositoque fugit pro est loquor, nempe!&lt;/p&gt;</description>
+      <guid>https://raymonddunn.github.io/posts/dissertation-yay/</guid>
+      <description>&lt;h2 id=&#34;i-got-my-phd&#34;&gt;I got my PhD!&lt;/h2&gt;&#xA;&lt;p&gt;For my dissertaion, I studied the foundations of cognition in the roundworm C. elegans. By monitoring whole-brain neural activity and probing the functions of individual neurons with closed-loop optical physiology platform I developed, we discovered worms have distributed networks of neurons which implement a primordial working memory. Profoundly, these results might point towards an evolutionary explanation for the origins of cognition, by internalize (i.e. repurposing) neural encoding of motor control.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

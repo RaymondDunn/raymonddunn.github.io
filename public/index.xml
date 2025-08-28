@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hi I&#39;m Ray on </title>
-    <link>http://localhost:1313/</link>
+    <link>https://raymonddunn.github.io/</link>
     <description>Recent content in Hi I&#39;m Ray on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://raymonddunn.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Working memory in a worm?</title>
-      <link>http://localhost:1313/posts/dissertation-yay/</link>
+      <link>https://raymonddunn.github.io/posts/dissertation-yay/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/dissertation-yay/</guid>
-      <description>&lt;h2 id=&#34;i-got-my-phd&#34;&gt;I got my PhD!&lt;/h2&gt;&#xA;&lt;p&gt;Link&lt;/p&gt;&#xA;&lt;h2 id=&#34;hos-sum-sex-o-quamvis-thoantis-gentes&#34;&gt;Hos sum sex o quamvis Thoantis gentes&lt;/h2&gt;&#xA;&lt;p&gt;Is polus Hymenaeus extrema communes, nos versus gramen, fervet: sincera quati.&#xA;Dixit extulerat; iunctas et &lt;a href=&#34;http://egofateri.net/&#34;&gt;Aeaciden Illa&lt;/a&gt;, visa&#xA;&lt;a href=&#34;http://euntemcrepuscula.com/subiecta.html&#34;&gt;viris&lt;/a&gt;. Ignoro dixit et linquit&#xA;moenia parilique dum deo cum, dat et superasse explorat causam crepuscula si&#xA;nitet inplevit.&lt;/p&gt;&#xA;&lt;p&gt;Oriente nec radios nurus, quod undas, occupat conpescit femina est; resistite&#xA;regno armenta suspirat. Mare condor dedi iussa Amoris et cacumine vellent Graios&#xA;et praebetis quoque frementem nostris apertis Iunonigenaeque moenia. Squalidus&#xA;quoque &lt;strong&gt;cinnamaque fiducia concurrit&lt;/strong&gt;; teneat haec praemia flagrantemque facto&#xA;atque, depositoque fugit pro est loquor, nempe!&lt;/p&gt;</description>
+      <guid>https://raymonddunn.github.io/posts/dissertation-yay/</guid>
+      <description>&lt;h2 id=&#34;i-got-my-phd&#34;&gt;I got my PhD!&lt;/h2&gt;&#xA;&lt;p&gt;For my dissertaion, I studied the foundations of cognition in the roundworm C. elegans. By monitoring whole-brain neural activity and probing the functions of individual neurons with closed-loop optical physiology platform I developed, we discovered worms have distributed networks of neurons which implement a primordial working memory. Profoundly, these results might point towards an evolutionary explanation for the origins of cognition, by internalize (i.e. repurposing) neural encoding of motor control.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://raymonddunn.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://raymonddunn.github.io/about/</guid>
       <description>&lt;h2 id=&#34;a-ray-on-the-streets-of-san-francisco&#34;&gt;A ray on the streets of San Francisco&lt;/h2&gt;&#xA;&lt;p&gt;My name is Ray and I hang out in SF. I&amp;rsquo;m currently soliciting funding for a research nonprofit.&lt;/p&gt;&#xA;&lt;h2 id=&#34;research-training&#34;&gt;Research training&lt;/h2&gt;&#xA;&lt;p&gt;I’m a computational neuroscientist with training in experimental biology and large-scale data engineering. I earned my PhD in Neuroscience from the University of California, San Francisco, where I studied whole-brain dynamics in Caenorhabditis elegans in the labs of Saul Kato and Noelle L’Etoile. My work used custom-built virtual reality systems, closed-loop optogenetics, and high-speed volumetric imaging, and neural activity modeling to study how neural circuits implement working memory. I combined molecular biology, including cloning and engineering optogenetic constructs, with Python infrastructure for real-time control and analysis of neural activity.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Pubs</title>
-      <link>http://localhost:1313/pubs/</link>
+      <link>https://raymonddunn.github.io/pubs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pubs/</guid>
+      <guid>https://raymonddunn.github.io/pubs/</guid>
       <description>&lt;p&gt;Dunn, R. L., Costello, C., Borchardt, J. M., Sprague, D. Y., Chiu, G. C., Miller, J. M., L’Etoile, N. D., Kato, S. (2024). Relative phase of distributed oscillatory dynamics implements a working memory in a simple brain. bioArxiv. &lt;a href=&#34;https://doi.org/10.1101/2024.08.11.607402&#34;&gt;https://doi.org/10.1101/2024.08.11.607402&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Sprague, D. Y., Rusch, K., Dunn, R. L., Borchardt, J. M., Bubnis, G., Chiu, G. C., Wen, C., Suzuki, R., Chaudhary, S., Dichter, B., Ly, R., Onami, S., Lu, H., Kimura, K. , Yemini, E. I., Kato, S. (2024). Unifying community-wide whole-brain imaging datasets enables robust automated neuron identification and reveals determinants of neuron positioning in C. elegans. Cell Reports Methods. Preprint &lt;a href=&#34;https://doi.org/10.1101/2024.04.28.591397&#34;&gt;https://doi.org/10.1101/2024.04.28.591397&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
