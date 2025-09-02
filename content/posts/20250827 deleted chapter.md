@@ -3,15 +3,15 @@ title: A deleted chapter from my PhD
 date: 2025-08-27T00:00:00.000Z
 description: I liked it more than some other folks did...
 image: images/ghost_path.png
-imageAltAttribute: best tshirt
+imageAltAttribute: worm ghost
 tags:
   - phd
   - life
 draft: true
 ---
-When I was working on my phd dissertation, the first draft of chapter 1 got way up in the clouds. It was during a time where I was reflecting on myself and my journey over the past 12 years of research, and I was feeling rather spiritual. 
+When I was working on my phd dissertation, the first draft of chapter 1 got way up in the clouds. It was during a time where I was reflecting on myself and my journey over the past 12 years of research, and I was feeling rather spiritual.
 
-I wrote the following, was pretty happy about it, but decided to scrap it. Not the right fit but there were some pretty ideas so I couldn't delete it either. 
+Here's a snippet from my original Chapter 1, the intro, which captures the vibe I was going for. Ultimately it was not the right fit but there were some pretty ideas that I'll probably explore more in the near future.
 
 Introduction
 
@@ -29,17 +29,19 @@ In the third chapter, I detail four notable methods contributions I made to the 
 
 Finally in the fourth chapter I detail various pilot projects and ideas that ended up on the cutting room floor.
 
+![](/images/20250902_darkness_around_us.jpg)
+
 The Golden Thread
 
 My first high school teacher to recognize that I was interested in academics, even before I knew it myself, gave me a book of poems by William Stafford named The Darkness Around Us Is Deep. This was an angsty, vulnerable time and my life, and these poems gave me a sense of abstract direction, meaning, and purpose which by no exaggeration have led me to where I am today. This book begins with a foreword by Robert Bly where he describes the key insight salient in Stafford’s poetry: the golden thread. What is the golden thread? As Bly puts it, “whenever you set a detail down in language, it becomes the end of a thread…and every detail will lead you to amazing riches.” The same golden thread described by William Blake in 1804:
 
-I give you the end of a golden string;
+*I give you the end of a golden string;*
 
-Only wind it into a ball,
+*Only wind it into a ball,*
 
-It will lead you in at Heaven’s gate,
+*It will lead you in at Heaven’s gate,*
 
-Built in Jerusalem’s wall
+*Built in Jerusalem’s wall*
 
 And again the same golden thread is later discussed in William Stafford’s The Way It Is, the epigraph for this dissertation. The golden thread is the exquisite, delicate line of language which makes a written moment alive and memorable. To me, the thread is some abstraction of fate, purpose, inspiration, and authenticity. To a neuroscientist that golden thread may be the “just right” associations which written language can evoke, tapping into shared human experiences. To Stafford, in Views on the Author’s Vocation (1986) he writes that “Any little impulse is accepted and enhanced….The stance to take, reading or writing is neutral, ready, susceptible to now….Only the golden string knows where it is going, and the role for a writer or reader is one of following, not imposing.” A thread is to be followed, with great care.
 
