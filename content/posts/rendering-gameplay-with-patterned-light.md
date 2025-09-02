@@ -1,6 +1,6 @@
 ---
 title: Rendering gameplay with patterned light
-date: ''
+date: 2025-08-29T19:37:00.000Z
 description: ''
 image: /images/20250902 sinistar projection.PNG
 imageAltAttribute: ''
