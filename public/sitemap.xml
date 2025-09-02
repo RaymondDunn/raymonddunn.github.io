@@ -2,33 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/20250827-deleted-chapter/</loc>
+    <loc>https://raymonddunn.github.io/</loc>
+    <lastmod>2025-08-29T19:37:00+00:00</lastmod>
+  </url><url>
+    <loc>https://raymonddunn.github.io/tags/optics/</loc>
+    <lastmod>2025-08-29T19:37:00+00:00</lastmod>
+  </url><url>
+    <loc>https://raymonddunn.github.io/tags/phd/</loc>
+    <lastmod>2025-08-29T19:37:00+00:00</lastmod>
+  </url><url>
+    <loc>https://raymonddunn.github.io/posts/20250829-rendering-gameplay-with-patterned-light/</loc>
+    <lastmod>2025-08-29T19:37:00+00:00</lastmod>
+  </url><url>
+    <loc>https://raymonddunn.github.io/tags/</loc>
+    <lastmod>2025-08-29T19:37:00+00:00</lastmod>
+  </url><url>
+    <loc>https://raymonddunn.github.io/posts/20250827-deleted-chapter/</loc>
     <lastmod>2025-08-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-08-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/phd/</loc>
-    <lastmod>2025-08-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-08-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://raymonddunn.github.io/posts/</loc>
     <lastmod>2025-08-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/neuro/</loc>
+    <loc>https://raymonddunn.github.io/tags/neuro/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/20250827-dissertation-yay/</loc>
+    <loc>https://raymonddunn.github.io/posts/20250827-dissertation-yay/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://raymonddunn.github.io/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://raymonddunn.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/pages/</loc>
+    <loc>https://raymonddunn.github.io/pages/</loc>
   </url><url>
-    <loc>http://localhost:1313/pubs/</loc>
+    <loc>https://raymonddunn.github.io/pubs/</loc>
   </url>
 </urlset>

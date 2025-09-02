@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>optics on </title>
+    <link>https://raymonddunn.github.io/tags/optics/</link>
+    <description>Recent content in optics on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Aug 2025 19:37:00 +0000</lastBuildDate><atom:link href="https://raymonddunn.github.io/tags/optics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rendering gameplay with patterned light</title>
+      <link>https://raymonddunn.github.io/posts/20250829-rendering-gameplay-with-patterned-light/</link>
+      <pubDate>Fri, 29 Aug 2025 19:37:00 +0000</pubDate>
+      
+      <guid>https://raymonddunn.github.io/posts/20250829-rendering-gameplay-with-patterned-light/</guid>
+      <description>Images were taken with 10ms exposure at 70fps (I think the Polygon could go faster but I was limited by camera readout speed) with 40x 1.25 NA WI objective. No visual edits/filtering other than typical compression/rendering with h264 codec. Frames were ripped from Sinistar gameplay.
+  </description>
+    </item>
+    
+  </channel>
+</rss>
