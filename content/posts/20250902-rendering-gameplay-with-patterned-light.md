@@ -1,7 +1,7 @@
 ---
 title: Rendering gameplay with patterned light
 date: 2025-09-02T19:37:00.000Z
-description: 'DMDs are like projectors!'
+description: 'Using a DMD like a projector'
 image: /images/20250902 sinistar projection.PNG
 imageAltAttribute: ''
 tags:

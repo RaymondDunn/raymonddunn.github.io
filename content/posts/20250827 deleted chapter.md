@@ -1,19 +1,18 @@
 ---
-title: A deleted chapter from my PhD
+title: I deleted this subchapter from my PhD
 date: 2025-08-27T00:00:00.000Z
-description: I liked it more than some other folks did...
+description: But I liked it more than some other folks did...
 image: images/ghost_path.png
 imageAltAttribute: worm ghost
 tags:
   - phd
   - life
-draft: true
 ---
 When I was working on my phd dissertation, the first draft of chapter 1 got way up in the clouds. It was during a time where I was reflecting on myself and my journey over the past 12 years of research, and I was feeling rather spiritual.
 
 Here's a snippet from my original Chapter 1, the intro, which captures the vibe I was going for. Ultimately it was not the right fit but there were some pretty ideas that I'll probably explore more in the near future.
 
-Introduction
+## Introduction
 
 What was the first thought? How deterministic are brains? How do you measure cognition? How do we achieve a deeper level of understanding of the brain? How does a brain work? These are examples of questions which I have had the privilege of probing during graduate school. These questions have no reasonable answers, but taking them seriously has directly motivated and inspired the past several years of the life and, by extension, this dissertation. My outlook on biology, human intelligence, and how to advance the bleeding edge of knowledge is forever tied to the freedom I have felt over the past several years, by allowing my curiosity to guide me week after week.
 
@@ -29,9 +28,9 @@ In the third chapter, I detail four notable methods contributions I made to the 
 
 Finally in the fourth chapter I detail various pilot projects and ideas that ended up on the cutting room floor.
 
-![](/images/20250902_darkness_around_us.jpg)
+## The Golden Thread
 
-The Golden Thread
+![](/images/20250902_darkness_around_us.jpg)
 
 My first high school teacher to recognize that I was interested in academics, even before I knew it myself, gave me a book of poems by William Stafford named The Darkness Around Us Is Deep. This was an angsty, vulnerable time and my life, and these poems gave me a sense of abstract direction, meaning, and purpose which by no exaggeration have led me to where I am today. This book begins with a foreword by Robert Bly where he describes the key insight salient in Stafford’s poetry: the golden thread. What is the golden thread? As Bly puts it, “whenever you set a detail down in language, it becomes the end of a thread…and every detail will lead you to amazing riches.” The same golden thread described by William Blake in 1804:
 
