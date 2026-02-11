@@ -1,7 +1,7 @@
 ---
 title: the origin of thought itself
 date: ''
-description: New paper published!
+description: My recent paper got promo!
 image: media/static/fx1_lrg.jpg
 imageAltAttribute: ''
 tags: []
